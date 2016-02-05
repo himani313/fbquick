@@ -1,0 +1,1 @@
+This program allows you to receive [Facebook](http://www.facebook.com) notifications on your desktop even when your browser is closed. Currently fbquick runs on Microsoft Windows but as the code uses the [wxWidgets](http://www.wxwidgets.org) library for drawing windows, it should be fairly trivial to run it on any operating system supported by wxWidgets.
